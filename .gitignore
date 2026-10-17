@@ -1,0 +1,22 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Datos descargados (se obtienen de las fuentes oficiales)
+data/
+*.csv
+*.xlsx
+*.xls
+*.sav
+
+# Sistema
+.DS_Store
+.vscode/
+.idea/
+img/
